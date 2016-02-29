@@ -1,0 +1,18 @@
+7 pts
+
+Your GitHub repository is empty.
+
+The essays address the questions; however, they are shorter than what it was
+required.
+
+The DFA is lacking the following:
+- states that specifically address all the possible symbols that can be
+  observed at any given state.
+- proper handling of spaces, e.g., for[space](...
+
+You could use $\Sigma$ more to save some space. Lets say that you want to make
+an arrow if the next symbol is not an 'f', you could simply say $\{\Sigma - f\}$,
+which means the set of all possible symbols of the whole alphabet minus 'f'.
+
+
+- Dr. Rivas
