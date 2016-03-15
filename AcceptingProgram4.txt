@@ -1,0 +1,5 @@
+var a
+a = 12
+b = a
+*sets b equal to a*
+print( b )
